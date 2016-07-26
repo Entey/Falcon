@@ -1,3 +1,3 @@
 # Falcon
 
-Project in developing!
+Project is in develop!
